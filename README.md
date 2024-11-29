@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, hello!!! (U2 Vertigo song playing background) 👋
+
+A brazilian Front End Engineer based in Sao Paulo, Brazil.
+
+Focused on web development and passionate about creating digital products with attention to visual aspects, fast perform and user experience.
+
+Currently working mostly with Vue.js, React(and React Native), Next, TypeScript. Despite i'm focused on frontend, occasionally i take time to practice some backend with Express, build something fun with JavaScript or another thing that I feel like doing it.
 
 <!--
 **andreromariodev/andreromariodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
